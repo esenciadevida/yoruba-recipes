@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FFF8E7;
+  --color-earth: #C8A96E;
+  --color-terracotta: #D96C4A;
+  --color-deep-green: #2D5A27;
+  --color-gold: #E6B31E;
+  --color-dark-brown: #3E2723;
+  --color-leaf: #4CAF50;
+  --color-soft-black: #1A1A1A;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-gray-50 text-gray-800;
+}

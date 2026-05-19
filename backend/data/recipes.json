@@ -1,0 +1,3647 @@
+{
+    "foods": [
+        {
+            "category": "soup",
+            "name": "Ewedu Soup",
+            "local_name": "Ewedu",
+            "calories": 100,
+            "protein": 6,
+            "carbohydrates": 12,
+            "fat": 2,
+            "fiber": 5,
+            "glycemic_index": "low",
+            "calorie_density": "low",
+            "recommended_portion": "large",
+            "health_benefits": [
+                "very low in calories",
+                "rich in vitamins",
+                "supports digestion"
+            ],
+            "ingredients": [
+                {
+                    "name": "jute leaves",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "locust beans",
+                    "quantity": "10g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "low-calorie"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Gbegiri",
+            "local_name": "Gbegiri",
+            "calories": 380,
+            "protein": 18,
+            "carbohydrates": 50,
+            "fat": 15,
+            "fiber": 10,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good plant protein source",
+                "rich in fiber",
+                "supports digestion"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "locust beans",
+                    "quantity": "10g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "beans"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Okra Soup",
+            "local_name": "Ila Alasepo",
+            "calories": 420,
+            "protein": 25,
+            "carbohydrates": 25,
+            "fat": 25,
+            "fiber": 8,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in fiber",
+                "supports digestion",
+                "contains antioxidants"
+            ],
+            "ingredients": [
+                {
+                    "name": "okra",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "meat/fish",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "fiber-rich"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Egusi Soup",
+            "local_name": "Egusi",
+            "calories": 500,
+            "protein": 35,
+            "carbohydrates": 15,
+            "fat": 55,
+            "fiber": 6,
+            "glycemic_index": "medium-high",
+            "calorie_density": "high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in protein",
+                "contains essential fatty acids",
+                "provides energy"
+            ],
+            "ingredients": [
+                {
+                    "name": "melon seeds",
+                    "quantity": "120g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "25ml"
+                },
+                {
+                    "name": "spinach",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "beef/fish",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "high-protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Ogbono Soup",
+            "local_name": "Ogbono",
+            "calories": 500,
+            "protein": 30,
+            "carbohydrates": 15,
+            "fat": 55,
+            "fiber": 10,
+            "glycemic_index": "high",
+            "calorie_density": "high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "provides high energy",
+                "contains healthy fats",
+                "rich in vitamins from vegetables"
+            ],
+            "ingredients": [
+                {
+                    "name": "ogbono seeds",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "25ml"
+                },
+                {
+                    "name": "meat/fish",
+                    "quantity": "120g"
+                },
+                {
+                    "name": "vegetables",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "draw-soup",
+                "high-energy"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Goat Meat Pepper Soup",
+            "local_name": "Pepper Soup (Eran Ewure)",
+            "calories": 350,
+            "protein": 35,
+            "carbohydrates": 8,
+            "fat": 18,
+            "fiber": 2,
+            "glycemic_index": "low",
+            "calorie_density": "low-medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high in protein",
+                "low in carbohydrates",
+                "easy to digest",
+                "may aid recovery during illness"
+            ],
+            "ingredients": [
+                {
+                    "name": "goat meat",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "pepper soup spice",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "scent leaves",
+                    "quantity": "20g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "low-carb",
+                "protein"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Ayamase",
+            "local_name": "Ayamase",
+            "calories": 400,
+            "protein": 25,
+            "carbohydrates": 10,
+            "fat": 70,
+            "fiber": 5,
+            "glycemic_index": "medium",
+            "calorie_density": "high",
+            "recommended_portion": "small to moderate",
+            "health_benefits": [
+                "rich in protein",
+                "contains antioxidants from peppers"
+            ],
+            "ingredients": [
+                {
+                    "name": "green bell peppers",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "scotch bonnet peppers",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "30ml"
+                },
+                {
+                    "name": "assorted meats",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2"
+                },
+                {
+                    "name": "locust beans",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Ogun State, Nigeria",
+            "tags": [
+                "yoruba",
+                "stew",
+                "spicy",
+                "high-calorie"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Ata",
+            "local_name": "Obe Ata",
+            "calories": 380,
+            "protein": 20,
+            "carbohydrates": 18,
+            "fat": 28,
+            "fiber": 4,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in antioxidants from peppers and tomatoes",
+                "good protein source",
+                "contains vitamins A and C"
+            ],
+            "ingredients": [
+                {
+                    "name": "red bell peppers",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "scotch bonnet",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "25ml"
+                },
+                {
+                    "name": "assorted meat/fish",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "50g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "stew"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Eja Tutu",
+            "local_name": "Obe Eja Tutu",
+            "calories": 280,
+            "protein": 30,
+            "carbohydrates": 10,
+            "fat": 15,
+            "fiber": 3,
+            "glycemic_index": "low",
+            "calorie_density": "low-medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "very high in protein",
+                "omega-3 fatty acids from fresh fish",
+                "low in carbohydrates",
+                "supports heart health"
+            ],
+            "ingredients": [
+                {
+                    "name": "fresh fish (eja tutu)",
+                    "quantity": "250g"
+                },
+                {
+                    "name": "scotch bonnet",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "ground crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "fish",
+                "low-carb"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Eja Smoke",
+            "local_name": "Obe Eja Gbigbe",
+            "calories": 320,
+            "protein": 32,
+            "carbohydrates": 10,
+            "fat": 18,
+            "fiber": 3,
+            "glycemic_index": "low",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high in protein",
+                "rich in omega-3 fatty acids",
+                "supports muscle repair"
+            ],
+            "ingredients": [
+                {
+                    "name": "smoked fish (eja gbigbe)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "scotch bonnet",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "40g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "smoked-fish"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Isapa",
+            "local_name": "Obe Isapa",
+            "calories": 340,
+            "protein": 15,
+            "carbohydrates": 20,
+            "fat": 25,
+            "fiber": 6,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "unique sour flavour from roselle leaves",
+                "rich in vitamin C",
+                "supports immune system",
+                "aids digestion"
+            ],
+            "ingredients": [
+                {
+                    "name": "roselle leaves (isapa/sorrel)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "smoked fish",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "sour",
+                "rare"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Ora",
+            "local_name": "Obe Ora",
+            "calories": 310,
+            "protein": 18,
+            "carbohydrates": 14,
+            "fat": 22,
+            "fiber": 7,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in antioxidants",
+                "anti-inflammatory properties from ora leaves",
+                "good protein source",
+                "supports liver health"
+            ],
+            "ingredients": [
+                {
+                    "name": "ora leaves",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "assorted meat",
+                    "quantity": "120g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "leafy",
+                "rare"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Omi Obe",
+            "local_name": "Omi Obe",
+            "calories": 180,
+            "protein": 10,
+            "carbohydrates": 12,
+            "fat": 10,
+            "fiber": 3,
+            "glycemic_index": "low",
+            "calorie_density": "low",
+            "recommended_portion": "large",
+            "health_benefits": [
+                "very light on the stomach",
+                "hydrating",
+                "good for convalescents",
+                "easy to digest"
+            ],
+            "ingredients": [
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "8g"
+                },
+                {
+                    "name": "smoked fish",
+                    "quantity": "50g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "light",
+                "everyday"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Sese Ede",
+            "local_name": "Sese Ede",
+            "calories": 450,
+            "protein": 12,
+            "carbohydrates": 55,
+            "fat": 22,
+            "fiber": 8,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good source of complex carbohydrates",
+                "contains minerals from cocoyam",
+                "supports satiety"
+            ],
+            "ingredients": [
+                {
+                    "name": "cocoyam (ede)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "smoked fish",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "cocoyam"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "swallow",
+            "name": "Amala",
+            "local_name": "Amala",
+            "calories": 300,
+            "protein": 4,
+            "carbohydrates": 65,
+            "fat": 1,
+            "fiber": 6,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high in fiber",
+                "supports digestion"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam flour",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "swallow",
+            "name": "Eba",
+            "local_name": "Eba",
+            "calories": 300,
+            "protein": 2,
+            "carbohydrates": 70,
+            "fat": 1,
+            "fiber": 2,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "quick energy source",
+                "easily prepared"
+            ],
+            "ingredients": [
+                {
+                    "name": "garri",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "swallow",
+            "name": "Pounded Yam",
+            "local_name": "Iyan",
+            "calories": 400,
+            "protein": 4,
+            "carbohydrates": 90,
+            "fat": 1,
+            "fiber": 4,
+            "glycemic_index": "high",
+            "calorie_density": "high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "provides high energy",
+                "rich in potassium"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous",
+                "high-energy"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "category": "swallow",
+            "name": "Amala Ogede",
+            "local_name": "Amala Ogede",
+            "calories": 280,
+            "protein": 3,
+            "carbohydrates": 60,
+            "fat": 1,
+            "fiber": 8,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "higher fiber than regular amala",
+                "good source of resistant starch",
+                "supports digestive health",
+                "lower GI than pounded yam"
+            ],
+            "ingredients": [
+                {
+                    "name": "unripe plantain flour",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous",
+                "plantain",
+                "diabetic-friendly"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "swallow",
+            "name": "Amala Lafun",
+            "local_name": "Lafun",
+            "calories": 270,
+            "protein": 2,
+            "carbohydrates": 62,
+            "fat": 1,
+            "fiber": 3,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "fermented cassava supports gut bacteria",
+                "easy to digest",
+                "good quick energy source"
+            ],
+            "ingredients": [
+                {
+                    "name": "fermented cassava flour (lafun)",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous",
+                "fermented",
+                "cassava"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "swallow",
+            "name": "Iyán Ede",
+            "local_name": "Iyán Ede",
+            "calories": 370,
+            "protein": 5,
+            "carbohydrates": 78,
+            "fat": 2,
+            "fiber": 6,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in complex carbohydrates",
+                "good source of minerals",
+                "supports sustained energy"
+            ],
+            "ingredients": [
+                {
+                    "name": "cocoyam (ede)",
+                    "quantity": "250g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous",
+                "cocoyam"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "category": "base",
+            "name": "Ofada Rice",
+            "local_name": "Iresi Ofada",
+            "calories": 500,
+            "protein": 10,
+            "carbohydrates": 100,
+            "fat": 2,
+            "fiber": 8,
+            "glycemic_index": "medium",
+            "calorie_density": "medium-high",
+            "recommended_portion": "small to moderate",
+            "health_benefits": [
+                "high fiber vs polished rice",
+                "contains antioxidants",
+                "slower digestion"
+            ],
+            "ingredients": [
+                {
+                    "name": "ofada rice",
+                    "quantity": "150g"
+                }
+            ],
+            "origin": "Ogun State, Nigeria",
+            "tags": [
+                "yoruba",
+                "rice",
+                "indigenous"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "base",
+            "name": "Boiled Yam",
+            "local_name": "Isu Sisun",
+            "calories": 300,
+            "protein": 4,
+            "carbohydrates": 70,
+            "fat": 1,
+            "fiber": 5,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good energy source",
+                "contains potassium",
+                "simple preparation"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "breakfast",
+                "quick-meal"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "base",
+            "name": "Roasted Yam",
+            "local_name": "Isu Baba",
+            "calories": 280,
+            "protein": 4,
+            "carbohydrates": 64,
+            "fat": 1,
+            "fiber": 5,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "lower GI than boiled yam due to dry heat",
+                "good source of potassium",
+                "no added fat"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "roasted",
+                "street-food"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "base",
+            "name": "Boiled Plantain",
+            "local_name": "Ogede Omisun",
+            "calories": 230,
+            "protein": 2,
+            "carbohydrates": 57,
+            "fat": 1,
+            "fiber": 3,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good source of potassium",
+                "contains vitamin B6",
+                "supports heart health"
+            ],
+            "ingredients": [
+                {
+                    "name": "ripe/semi-ripe plantain",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "plantain"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "base",
+            "name": "Fried Plantain",
+            "local_name": "Dodo",
+            "calories": 310,
+            "protein": 2,
+            "carbohydrates": 55,
+            "fat": 12,
+            "fiber": 3,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good source of potassium",
+                "contains vitamin A",
+                "provides quick energy"
+            ],
+            "ingredients": [
+                {
+                    "name": "ripe plantain",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "25ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "plantain",
+                "fried"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "base",
+            "name": "Pap",
+            "local_name": "Ogi / Akamu",
+            "calories": 200,
+            "protein": 4,
+            "carbohydrates": 40,
+            "fat": 2,
+            "fiber": 1,
+            "glycemic_index": "high",
+            "calorie_density": "low",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "easy to digest",
+                "good for infants and elderly",
+                "supports gut health due to fermentation"
+            ],
+            "ingredients": [
+                {
+                    "name": "fermented maize",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "light",
+                "fermented",
+                "indigenous"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Akara",
+            "local_name": "Akara",
+            "calories": 500,
+            "protein": 18,
+            "carbohydrates": 35,
+            "fat": 25,
+            "fiber": 7,
+            "glycemic_index": "medium",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "good plant protein source",
+                "contains fiber",
+                "supports energy needs"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "50ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "snack",
+                "street-food",
+                "protein",
+                "indigenous"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Moi Moi",
+            "local_name": "Moi Moi",
+            "calories": 520,
+            "protein": 25,
+            "carbohydrates": 35,
+            "fat": 20,
+            "fiber": 10,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high in protein",
+                "rich in fiber",
+                "supports digestion",
+                "heart-friendly when low oil is used"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "red bell pepper",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "protein",
+                "healthy",
+                "steamed",
+                "indigenous"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Ewa Agoyin",
+            "local_name": "Ewa Agoyin",
+            "calories": 700,
+            "protein": 22,
+            "carbohydrates": 70,
+            "fat": 35,
+            "fiber": 12,
+            "glycemic_index": "medium",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in fiber",
+                "supports digestion",
+                "good plant protein source"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "30ml"
+                },
+                {
+                    "name": "dried pepper",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "50g"
+                }
+            ],
+            "origin": "Lagos, Nigeria",
+            "tags": [
+                "yoruba",
+                "street-food",
+                "beans",
+                "spicy",
+                "indigenous"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Stewed Beans",
+            "local_name": "Ewa Riro",
+            "calories": 580,
+            "protein": 22,
+            "carbohydrates": 65,
+            "fat": 20,
+            "fiber": 15,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "very high in fiber",
+                "supports digestion",
+                "helps regulate blood sugar",
+                "good plant protein source"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "40g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "beans",
+                "healthy",
+                "high-fiber",
+                "indigenous"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Egg Sauce",
+            "local_name": "Egg Sauce",
+            "calories": 150,
+            "protein": 12,
+            "carbohydrates": 6,
+            "fat": 10,
+            "fiber": 1,
+            "glycemic_index": "low",
+            "calorie_density": "low",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high-quality protein from eggs",
+                "quick to prepare",
+                "low in carbohydrates"
+            ],
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": "2"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "30g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "quick-meal",
+                "protein"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Adalu",
+            "local_name": "Adalu",
+            "calories": 520,
+            "protein": 20,
+            "carbohydrates": 75,
+            "fat": 15,
+            "fiber": 14,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high fiber from beans and corn",
+                "complete plant-based protein",
+                "supports digestive health",
+                "helps regulate blood sugar"
+            ],
+            "ingredients": [
+                {
+                    "name": "corn (maize)",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "beans",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "5g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "corn",
+                "beans",
+                "one-pot"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Asaro",
+            "local_name": "Asaro",
+            "calories": 480,
+            "protein": 8,
+            "carbohydrates": 80,
+            "fat": 15,
+            "fiber": 7,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "one-pot meal with balanced nutrients",
+                "good source of complex carbohydrates",
+                "contains vitamins from vegetables"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam",
+                    "quantity": "250g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "40g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "smoked fish/meat",
+                    "quantity": "80g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "one-pot",
+                "yam-porridge"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Ipekere",
+            "local_name": "Ipekere",
+            "calories": 420,
+            "protein": 3,
+            "carbohydrates": 55,
+            "fat": 22,
+            "fiber": 4,
+            "glycemic_index": "medium-high",
+            "calorie_density": "high",
+            "recommended_portion": "small",
+            "health_benefits": [
+                "good source of potassium",
+                "contains resistant starch from unripe plantain",
+                "provides quick energy"
+            ],
+            "ingredients": [
+                {
+                    "name": "unripe plantain",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "50ml"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "3g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "snack",
+                "indigenous",
+                "street-food",
+                "plantain-chips"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Boiled Unripe Plantain",
+            "local_name": "Ogede Agbagba",
+            "calories": 260,
+            "protein": 2,
+            "carbohydrates": 60,
+            "fat": 1,
+            "fiber": 5,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "high potassium content",
+                "contains resistant starch",
+                "supports gut health",
+                "low fat"
+            ],
+            "ingredients": [
+                {
+                    "name": "unripe plantain",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "unripe-plantain",
+                "boiled",
+                "diabetic-friendly"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Ogi Baba",
+            "local_name": "Ogi Baba",
+            "calories": 320,
+            "protein": 5,
+            "carbohydrates": 65,
+            "fat": 4,
+            "fiber": 2,
+            "glycemic_index": "high",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "easy to digest",
+                "energy-dense for recovery",
+                "supports gut health"
+            ],
+            "ingredients": [
+                {
+                    "name": "fermented sorghum or millet flour",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "water",
+                    "quantity": "200ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "indigenous",
+                "fermented",
+                "sorghum"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Efo Riro",
+            "local_name": "Efo Riro",
+            "calories": 390,
+            "protein": 28,
+            "carbohydrates": 12,
+            "fat": 28,
+            "fiber": 7,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "very rich in iron and vitamins from leafy greens",
+                "high protein",
+                "anti-inflammatory properties",
+                "supports eye health"
+            ],
+            "ingredients": [
+                {
+                    "name": "shredded African spinach (efo tete/soko)",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "30ml"
+                },
+                {
+                    "name": "assorted meat/fish",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "ground crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "scotch bonnet",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "50g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "leafy",
+                "iron-rich"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Efo Elegusi",
+            "local_name": "Efo Elegusi",
+            "calories": 520,
+            "protein": 32,
+            "carbohydrates": 14,
+            "fat": 42,
+            "fiber": 9,
+            "glycemic_index": "medium",
+            "calorie_density": "high",
+            "recommended_portion": "moderate",
+            "health_highlights": [
+                "high protein from melon seeds and meat",
+                "iron-rich from leafy greens",
+                "essential fatty acids from egusi"
+            ],
+            "health_benefits": [
+                "high protein from melon seeds and meat",
+                "iron-rich from leafy greens",
+                "essential fatty acids from egusi"
+            ],
+            "ingredients": [
+                {
+                    "name": "ground egusi (melon seeds)",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "African spinach (efo tete)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "25ml"
+                },
+                {
+                    "name": "assorted meat",
+                    "quantity": "120g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "scotch bonnet",
+                    "quantity": "25g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "leafy",
+                "high-protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Ila Alasepo Pupa",
+            "local_name": "Ila Alasepo Pupa",
+            "calories": 440,
+            "protein": 26,
+            "carbohydrates": 28,
+            "fat": 28,
+            "fiber": 9,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "fiber-rich from okra",
+                "antioxidants from tomatoes and peppers",
+                "good protein content",
+                "supports gut motility"
+            ],
+            "ingredients": [
+                {
+                    "name": "okra",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "red bell pepper",
+                    "quantity": "60g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "meat/fish",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "fiber-rich",
+                "tomato-base"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Omi Obe Eja Kika",
+            "local_name": "Obe Eja Kika",
+            "calories": 260,
+            "protein": 28,
+            "carbohydrates": 8,
+            "fat": 14,
+            "fiber": 2,
+            "glycemic_index": "low",
+            "calorie_density": "low-medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "very high protein from dried stock fish",
+                "low in carbohydrates",
+                "rich in calcium from stockfish",
+                "supports bone health"
+            ],
+            "ingredients": [
+                {
+                    "name": "stockfish (eja kika)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "25g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "40g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "stockfish",
+                "low-carb"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Alubosa",
+            "local_name": "Obe Alubosa",
+            "calories": 220,
+            "protein": 14,
+            "carbohydrates": 18,
+            "fat": 12,
+            "fiber": 3,
+            "glycemic_index": "low-medium",
+            "calorie_density": "low",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "onions are rich in quercetin antioxidants",
+                "anti-inflammatory properties",
+                "supports immune function",
+                "low calorie"
+            ],
+            "ingredients": [
+                {
+                    "name": "onions (alubosa)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "smoked fish",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "onion",
+                "light"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "soup",
+            "name": "Obe Ata Din Din",
+            "local_name": "Obe Ata Din Din",
+            "calories": 430,
+            "protein": 22,
+            "carbohydrates": 15,
+            "fat": 35,
+            "fiber": 5,
+            "glycemic_index": "medium",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "deep-fried pepper base concentrates antioxidants",
+                "rich in protein",
+                "contains capsaicin which boosts metabolism"
+            ],
+            "ingredients": [
+                {
+                    "name": "red peppers (ata rodo)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "40ml"
+                },
+                {
+                    "name": "assorted meat",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "60g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "20g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "fried-pepper",
+                "spicy"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "soup",
+            "name": "Omi Obe Egbo",
+            "local_name": "Omi Obe Egbo",
+            "calories": 350,
+            "protein": 12,
+            "carbohydrates": 55,
+            "fat": 10,
+            "fiber": 9,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "corn provides sustained energy",
+                "high fiber from whole corn",
+                "supports gut health",
+                "filling and affordable"
+            ],
+            "ingredients": [
+                {
+                    "name": "whole dry corn (egbo)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "8g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "soup",
+                "indigenous",
+                "corn",
+                "affordable"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "swallow",
+            "name": "Amala Elubo",
+            "local_name": "Amala Elubo",
+            "calories": 295,
+            "protein": 4,
+            "carbohydrates": 63,
+            "fat": 1,
+            "fiber": 7,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "made from dried yam peels, high in fiber",
+                "supports digestive health",
+                "slow energy release",
+                "traditional Yoruba staple"
+            ],
+            "ingredients": [
+                {
+                    "name": "yam peel flour (elubo isu)",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "swallow",
+                "indigenous",
+                "yam-peel",
+                "traditional"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "base",
+            "name": "Ogi Ogi",
+            "local_name": "Ogi Ogi",
+            "calories": 180,
+            "protein": 3,
+            "carbohydrates": 38,
+            "fat": 1,
+            "fiber": 1,
+            "glycemic_index": "high",
+            "calorie_density": "low",
+            "recommended_portion": "large",
+            "health_benefits": [
+                "very light and easy to digest",
+                "suitable for all ages",
+                "traditionally used during convalescence",
+                "fermentation supports gut health"
+            ],
+            "ingredients": [
+                {
+                    "name": "fermented maize (white)",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "indigenous",
+                "fermented",
+                "light",
+                "convalescence"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "base",
+            "name": "Roasted Plantain",
+            "local_name": "Boli",
+            "calories": 240,
+            "protein": 2,
+            "carbohydrates": 56,
+            "fat": 1,
+            "fiber": 4,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "no added fat — dry heat preparation",
+                "good source of potassium",
+                "contains vitamin A from ripe plantain",
+                "lower GI than fried plantain"
+            ],
+            "ingredients": [
+                {
+                    "name": "ripe plantain",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "street-food",
+                "roasted",
+                "plantain"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Gbegiri Pipe",
+            "local_name": "Gbegiri Pipe",
+            "calories": 310,
+            "protein": 15,
+            "carbohydrates": 38,
+            "fat": 10,
+            "fiber": 9,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "lighter version of gbegiri",
+                "good plant protein",
+                "high fiber",
+                "easy to digest"
+            ],
+            "ingredients": [
+                {
+                    "name": "beans",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "10ml"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "8g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "beans",
+                "light-soup"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Egbo",
+            "local_name": "Egbo",
+            "calories": 380,
+            "protein": 10,
+            "carbohydrates": 72,
+            "fat": 8,
+            "fiber": 10,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "whole corn retains bran and fiber",
+                "complex carbohydrates for sustained energy",
+                "supports gut health",
+                "rich in B vitamins"
+            ],
+            "ingredients": [
+                {
+                    "name": "whole dry corn (egbo)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "3g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "corn",
+                "whole-grain",
+                "fiber-rich"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Ekuru",
+            "local_name": "Ekuru",
+            "calories": 440,
+            "protein": 22,
+            "carbohydrates": 38,
+            "fat": 18,
+            "fiber": 9,
+            "glycemic_index": "low-medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "steamed bean pudding — no frying",
+                "high plant protein",
+                "rich in fiber",
+                "heart-friendly preparation"
+            ],
+            "ingredients": [
+                {
+                    "name": "white beans (oloyin)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "15ml"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "steamed",
+                "beans",
+                "protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Eko",
+            "local_name": "Eko / Agidi",
+            "calories": 190,
+            "protein": 3,
+            "carbohydrates": 42,
+            "fat": 1,
+            "fiber": 1,
+            "glycemic_index": "high",
+            "calorie_density": "low",
+            "recommended_portion": "large",
+            "health_benefits": [
+                "very easy to digest",
+                "light on the stomach",
+                "traditionally served with soup or stew",
+                "suitable during illness or postpartum"
+            ],
+            "ingredients": [
+                {
+                    "name": "fermented corn starch",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "fermented",
+                "corn",
+                "light",
+                "traditional"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Guguru",
+            "local_name": "Guguru",
+            "calories": 360,
+            "protein": 7,
+            "carbohydrates": 70,
+            "fat": 8,
+            "fiber": 12,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "small to moderate",
+            "health_benefits": [
+                "whole grain popcorn is high in fiber",
+                "contains polyphenol antioxidants",
+                "light snack when plain",
+                "supports gut health"
+            ],
+            "ingredients": [
+                {
+                    "name": "dry maize kernels",
+                    "quantity": "80g"
+                },
+                {
+                    "name": "palm oil or groundnut oil",
+                    "quantity": "10ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "corn",
+                "street-food"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Aadun",
+            "local_name": "Aadun",
+            "calories": 490,
+            "protein": 6,
+            "carbohydrates": 72,
+            "fat": 20,
+            "fiber": 5,
+            "glycemic_index": "medium-high",
+            "calorie_density": "high",
+            "recommended_portion": "small",
+            "health_benefits": [
+                "quick energy snack",
+                "palm oil provides vitamin A",
+                "traditional Yoruba ceremonial snack"
+            ],
+            "ingredients": [
+                {
+                    "name": "roasted corn flour",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "30ml"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "8g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "corn",
+                "ceremonial"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Kokoro",
+            "local_name": "Kokoro",
+            "calories": 430,
+            "protein": 7,
+            "carbohydrates": 68,
+            "fat": 16,
+            "fiber": 6,
+            "glycemic_index": "medium-high",
+            "calorie_density": "high",
+            "recommended_portion": "small",
+            "health_benefits": [
+                "provides quick energy",
+                "traditional Yoruba snack",
+                "contains corn B vitamins"
+            ],
+            "ingredients": [
+                {
+                    "name": "maize flour",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "25ml"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "3g"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "10g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "corn",
+                "fried",
+                "street-food"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Epa",
+            "local_name": "Epa (Groundnut)",
+            "calories": 560,
+            "protein": 24,
+            "carbohydrates": 18,
+            "fat": 46,
+            "fiber": 8,
+            "glycemic_index": "low",
+            "calorie_density": "high",
+            "recommended_portion": "small",
+            "health_benefits": [
+                "very high in protein",
+                "rich in healthy monounsaturated fats",
+                "contains vitamin E",
+                "supports heart health",
+                "good source of magnesium"
+            ],
+            "ingredients": [
+                {
+                    "name": "groundnuts (epa)",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "protein",
+                "street-food",
+                "groundnut"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Epa Didi",
+            "local_name": "Epa Didi",
+            "calories": 590,
+            "protein": 25,
+            "carbohydrates": 20,
+            "fat": 48,
+            "fiber": 8,
+            "glycemic_index": "low",
+            "calorie_density": "high",
+            "recommended_portion": "small",
+            "health_benefits": [
+                "same benefits as raw groundnut",
+                "roasting enhances flavour without reducing nutrition significantly",
+                "high protein snack",
+                "very satisfying in small portions"
+            ],
+            "ingredients": [
+                {
+                    "name": "groundnuts (epa)",
+                    "quantity": "100g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "roasted",
+                "groundnut",
+                "street-food"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Ewa Oloyin",
+            "local_name": "Ewa Oloyin",
+            "calories": 540,
+            "protein": 22,
+            "carbohydrates": 68,
+            "fat": 16,
+            "fiber": 13,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "sweeter honey beans variety — naturally lower glycemic",
+                "high fiber",
+                "good plant protein",
+                "supports blood sugar balance"
+            ],
+            "ingredients": [
+                {
+                    "name": "honey beans (oloyin)",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "40g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "15g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "beans",
+                "honey-beans",
+                "sweet"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Ojojo",
+            "local_name": "Ojojo",
+            "calories": 380,
+            "protein": 5,
+            "carbohydrates": 52,
+            "fat": 18,
+            "fiber": 4,
+            "glycemic_index": "medium-high",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "water yam is rich in antioxidants",
+                "contains dioscorin protein",
+                "quick energy from frying",
+                "traditional Yoruba snack"
+            ],
+            "ingredients": [
+                {
+                    "name": "water yam (isu ewura)",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "onions",
+                    "quantity": "30g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "10g"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "40ml"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "water-yam",
+                "fried",
+                "street-food"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "category": "side",
+            "name": "Ikokore",
+            "local_name": "Ikokore",
+            "calories": 510,
+            "protein": 20,
+            "carbohydrates": 65,
+            "fat": 20,
+            "fiber": 6,
+            "glycemic_index": "medium",
+            "calorie_density": "medium-high",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "water yam porridge is rich in antioxidants",
+                "good protein from fish and meat",
+                "provides sustained energy",
+                "traditional Ijebu-Yoruba dish"
+            ],
+            "ingredients": [
+                {
+                    "name": "water yam (isu ewura)",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "palm oil",
+                    "quantity": "20ml"
+                },
+                {
+                    "name": "assorted fish/meat",
+                    "quantity": "120g"
+                },
+                {
+                    "name": "pepper",
+                    "quantity": "25g"
+                },
+                {
+                    "name": "crayfish",
+                    "quantity": "20g"
+                },
+                {
+                    "name": "locust beans (iru)",
+                    "quantity": "10g"
+                }
+            ],
+            "origin": "Ijebu, Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "ijebu",
+                "indigenous",
+                "water-yam-porridge",
+                "one-pot"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "category": "side",
+            "name": "Tutu",
+            "local_name": "Tutu (Banana)",
+            "calories": 210,
+            "protein": 3,
+            "carbohydrates": 50,
+            "fat": 1,
+            "fiber": 4,
+            "glycemic_index": "medium",
+            "calorie_density": "medium",
+            "recommended_portion": "moderate",
+            "health_benefits": [
+                "rich in potassium and vitamin B6",
+                "natural sugars for quick energy",
+                "supports heart and nerve function",
+                "easy to eat on the go"
+            ],
+            "ingredients": [
+                {
+                    "name": "ripe banana (tutu)",
+                    "quantity": "200g"
+                }
+            ],
+            "origin": "Southwest Nigeria",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "fruit",
+                "banana"
+            ],
+            "difficulty": "easy"
+        }
+    ],
+    "combinations": [
+        {
+            "name": "Amala dinner",
+            "local_name": "Amala, Ewedu ati Gbegiri",
+            "components": [
+                "Amala",
+                "Ewedu Soup",
+                "Gbegiri"
+            ],
+            "total_calories": 780,
+            "total_protein": 28,
+            "total_carbohydrates": 127,
+            "total_fat": 18,
+            "total_fiber": 21,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "high fiber combination",
+                "plant-based protein",
+                "supports digestion"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "balanced",
+                "high-fiber"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Eba & Egusi",
+            "local_name": "Eba ati Egusi",
+            "components": [
+                "Eba",
+                "Egusi Soup"
+            ],
+            "total_calories": 800,
+            "total_protein": 37,
+            "total_carbohydrates": 85,
+            "total_fat": 56,
+            "total_fiber": 8,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "high protein",
+                "energy-dense",
+                "contains essential fatty acids"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "high-protein",
+                "filling"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Pounded Yam & Ogbono",
+            "local_name": "Iyan ati Ogbono",
+            "components": [
+                "Pounded Yam",
+                "Ogbono Soup"
+            ],
+            "total_calories": 900,
+            "total_protein": 34,
+            "total_carbohydrates": 105,
+            "total_fat": 56,
+            "total_fiber": 14,
+            "glycemic_index": "high",
+            "health_highlights": [
+                "very filling",
+                "high energy",
+                "rich in vitamins from vegetables"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "high-energy",
+                "heavy-meal"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Ofada rice set",
+            "local_name": "Iresi Ofada ati Ayamase",
+            "components": [
+                "Ofada Rice",
+                "Ayamase"
+            ],
+            "total_calories": 900,
+            "total_protein": 35,
+            "total_carbohydrates": 110,
+            "total_fat": 72,
+            "total_fiber": 13,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "high protein",
+                "antioxidants from peppers",
+                "more fiber than polished rice"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "spicy",
+                "high-calorie"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Pounded Yam & Egusi",
+            "local_name": "Iyan ati Egusi",
+            "components": [
+                "Pounded Yam",
+                "Egusi Soup"
+            ],
+            "total_calories": 900,
+            "total_protein": 34,
+            "total_carbohydrates": 105,
+            "total_fat": 56,
+            "total_fiber": 10,
+            "glycemic_index": "high",
+            "health_highlights": [
+                "very high protein",
+                "energy-dense",
+                "filling heavy meal"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "high-protein",
+                "heavy-meal"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Boiled yam breakfast",
+            "local_name": "Isu ati Egg Sauce",
+            "components": [
+                "Boiled Yam",
+                "Egg Sauce"
+            ],
+            "total_calories": 450,
+            "total_protein": 16,
+            "total_carbohydrates": 76,
+            "total_fat": 11,
+            "total_fiber": 6,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "balanced breakfast",
+                "high-quality protein from eggs",
+                "quick to prepare"
+            ],
+            "meal_type": "breakfast",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "balanced",
+                "quick-meal"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Eba & Okra",
+            "local_name": "Eba ati Ila",
+            "components": [
+                "Eba",
+                "Okra Soup"
+            ],
+            "total_calories": 720,
+            "total_protein": 27,
+            "total_carbohydrates": 95,
+            "total_fat": 26,
+            "total_fiber": 10,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "fiber-rich",
+                "moderate protein",
+                "antioxidants from okra"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "balanced",
+                "fiber-rich"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Light beans breakfast",
+            "local_name": "Ogi ati Akara",
+            "components": [
+                "Pap",
+                "Akara"
+            ],
+            "total_calories": 700,
+            "total_protein": 22,
+            "total_carbohydrates": 75,
+            "total_fat": 27,
+            "total_fiber": 8,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "plant-based protein",
+                "easy to digest",
+                "classic morning combination"
+            ],
+            "meal_type": "breakfast",
+            "tags": [
+                "yoruba",
+                "breakfast",
+                "street-food",
+                "traditional"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Pepper soup light meal",
+            "local_name": "Pepper Soup ati Eba kekere",
+            "components": [
+                "Goat Meat Pepper Soup",
+                "Eba"
+            ],
+            "total_calories": 650,
+            "total_protein": 37,
+            "total_carbohydrates": 78,
+            "total_fat": 19,
+            "total_fiber": 4,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "high protein",
+                "low fat option",
+                "easy to digest"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "light-meal",
+                "high-protein",
+                "low-fat"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Ewa Agoyin & bread",
+            "local_name": "Ewa Agoyin ati Agege Bread",
+            "components": [
+                "Ewa Agoyin",
+                "Agege bread"
+            ],
+            "total_calories": 900,
+            "total_protein": 28,
+            "total_carbohydrates": 120,
+            "total_fat": 40,
+            "total_fiber": 14,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "street-food classic",
+                "high fiber from beans",
+                "filling and affordable"
+            ],
+            "meal_type": "breakfast/lunch",
+            "tags": [
+                "yoruba",
+                "street-food",
+                "classic",
+                "lagos"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Amala & Gbegiri",
+            "local_name": "Amala ati Gbegiri",
+            "components": [
+                "Amala",
+                "Gbegiri"
+            ],
+            "total_calories": 680,
+            "total_protein": 22,
+            "total_carbohydrates": 115,
+            "total_fat": 16,
+            "total_fiber": 16,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "all plant-based protein",
+                "high fiber",
+                "deeply traditional Yoruba meal"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "plant-based"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Amala & Okra",
+            "local_name": "Amala ati Ila",
+            "components": [
+                "Amala",
+                "Okra Soup"
+            ],
+            "total_calories": 720,
+            "total_protein": 29,
+            "total_carbohydrates": 90,
+            "total_fat": 26,
+            "total_fiber": 14,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "fiber-rich",
+                "moderate protein",
+                "supports gut health"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "fiber-rich"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Lafun & Egusi",
+            "local_name": "Lafun ati Egusi",
+            "components": [
+                "Amala Lafun",
+                "Egusi Soup"
+            ],
+            "total_calories": 770,
+            "total_protein": 37,
+            "total_carbohydrates": 77,
+            "total_fat": 56,
+            "total_fiber": 9,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "fermented swallow aids digestion",
+                "very high protein",
+                "energy-dense"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "high-protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Lafun & Ewedu",
+            "local_name": "Lafun ati Ewedu",
+            "components": [
+                "Amala Lafun",
+                "Ewedu Soup"
+            ],
+            "total_calories": 370,
+            "total_protein": 8,
+            "total_carbohydrates": 74,
+            "total_fat": 3,
+            "total_fiber": 11,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very low calorie combination",
+                "gut-friendly fermented swallow",
+                "high fiber",
+                "good for weight management"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "light",
+                "low-calorie"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Asaro & smoked fish soup",
+            "local_name": "Asaro ati Obe Eja Gbigbe",
+            "components": [
+                "Asaro",
+                "Obe Eja Smoke"
+            ],
+            "total_calories": 800,
+            "total_protein": 40,
+            "total_carbohydrates": 90,
+            "total_fat": 33,
+            "total_fiber": 10,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "complete one-pot yam meal",
+                "very high protein from smoked fish",
+                "omega-3 fatty acids",
+                "deeply indigenous"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "one-pot",
+                "high-protein"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Roasted yam & pepper stew",
+            "local_name": "Isu Baba ati Obe Ata",
+            "components": [
+                "Roasted Yam",
+                "Obe Ata"
+            ],
+            "total_calories": 660,
+            "total_protein": 24,
+            "total_carbohydrates": 82,
+            "total_fat": 29,
+            "total_fiber": 9,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "classic roadside combination",
+                "antioxidants from pepper stew",
+                "moderate protein",
+                "lower fat than fried alternatives"
+            ],
+            "meal_type": "breakfast/snack",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "street-food",
+                "classic"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Adalu & dodo",
+            "local_name": "Adalu ati Dodo",
+            "components": [
+                "Adalu",
+                "Fried Plantain"
+            ],
+            "total_calories": 830,
+            "total_protein": 22,
+            "total_carbohydrates": 130,
+            "total_fat": 27,
+            "total_fiber": 17,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high fiber",
+                "complete plant-based protein from corn and beans",
+                "potassium from plantain",
+                "deeply traditional"
+            ],
+            "meal_type": "lunch",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "plant-based",
+                "high-fiber"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Plantain swallow & Gbegiri",
+            "local_name": "Amala Ogede ati Gbegiri",
+            "components": [
+                "Amala Ogede",
+                "Gbegiri"
+            ],
+            "total_calories": 660,
+            "total_protein": 21,
+            "total_carbohydrates": 110,
+            "total_fat": 16,
+            "total_fiber": 18,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "highest fiber combination in list",
+                "plant-based protein",
+                "blood sugar friendly",
+                "good for diabetics"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "diabetic-friendly",
+                "high-fiber",
+                "plant-based"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Pap & Moi Moi",
+            "local_name": "Ogi ati Moi Moi",
+            "components": [
+                "Pap",
+                "Moi Moi"
+            ],
+            "total_calories": 720,
+            "total_protein": 29,
+            "total_carbohydrates": 75,
+            "total_fat": 22,
+            "total_fiber": 11,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "high protein breakfast",
+                "easy to digest",
+                "traditional Yoruba morning meal",
+                "gut-friendly fermented pap"
+            ],
+            "meal_type": "breakfast",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "breakfast",
+                "high-protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Iyan & Ewedu & Gbegiri",
+            "local_name": "Iyan, Ewedu ati Gbegiri",
+            "components": [
+                "Pounded Yam",
+                "Ewedu Soup",
+                "Gbegiri"
+            ],
+            "total_calories": 880,
+            "total_protein": 28,
+            "total_carbohydrates": 152,
+            "total_fat": 18,
+            "total_fiber": 20,
+            "glycemic_index": "high",
+            "health_highlights": [
+                "classic Yoruba celebratory meal",
+                "high energy",
+                "plant-based protein",
+                "rich in fiber"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "celebratory",
+                "traditional"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Cocoyam swallow & Okra",
+            "local_name": "Iyán Ede ati Ila",
+            "components": [
+                "Iyán Ede",
+                "Okra Soup"
+            ],
+            "total_calories": 790,
+            "total_protein": 30,
+            "total_carbohydrates": 103,
+            "total_fat": 27,
+            "total_fiber": 14,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "rare indigenous pairing",
+                "rich in minerals from cocoyam",
+                "fiber-rich okra",
+                "good protein"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "rare",
+                "fiber-rich"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Sese Ede & smoked fish",
+            "local_name": "Sese Ede ati Eja Gbigbe",
+            "components": [
+                "Sese Ede",
+                "Obe Eja Smoke"
+            ],
+            "total_calories": 770,
+            "total_protein": 44,
+            "total_carbohydrates": 65,
+            "total_fat": 40,
+            "total_fiber": 11,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high protein",
+                "cocoyam provides slow-release energy",
+                "omega-3 from smoked fish",
+                "rare indigenous combination"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "rare",
+                "high-protein"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Obe Isapa & Amala",
+            "local_name": "Obe Isapa ati Amala",
+            "components": [
+                "Amala",
+                "Obe Isapa"
+            ],
+            "total_calories": 640,
+            "total_protein": 19,
+            "total_carbohydrates": 85,
+            "total_fat": 26,
+            "total_fiber": 16,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "unique sour flavour profile",
+                "vitamin C from roselle",
+                "high fiber",
+                "rare traditional combination"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "rare",
+                "traditional",
+                "sour"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Fresh fish soup & Lafun",
+            "local_name": "Obe Eja Tutu ati Lafun",
+            "components": [
+                "Amala Lafun",
+                "Obe Eja Tutu"
+            ],
+            "total_calories": 550,
+            "total_protein": 32,
+            "total_carbohydrates": 72,
+            "total_fat": 16,
+            "total_fiber": 6,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "high protein from fresh fish",
+                "light on the stomach",
+                "omega-3 fatty acids",
+                "fermented swallow aids digestion"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "light",
+                "high-protein",
+                "fish"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Amala & Efo Riro",
+            "local_name": "Amala ati Efo Riro",
+            "components": [
+                "Amala",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 690,
+            "total_protein": 32,
+            "total_carbohydrates": 77,
+            "total_fat": 29,
+            "total_fiber": 13,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "iron-rich from leafy greens",
+                "high protein",
+                "high fiber",
+                "classic Yoruba pairing"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "iron-rich",
+                "balanced"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Pounded Yam & Efo Riro",
+            "local_name": "Iyan ati Efo Riro",
+            "components": [
+                "Pounded Yam",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 790,
+            "total_protein": 32,
+            "total_carbohydrates": 102,
+            "total_fat": 29,
+            "total_fiber": 11,
+            "glycemic_index": "high",
+            "health_highlights": [
+                "very filling",
+                "iron-rich from leafy greens",
+                "high protein",
+                "celebratory meal"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "celebratory",
+                "heavy-meal"
+            ],
+            "difficulty": "hard"
+        },
+        {
+            "name": "Eba & Efo Riro",
+            "local_name": "Eba ati Efo Riro",
+            "components": [
+                "Eba",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 690,
+            "total_protein": 30,
+            "total_carbohydrates": 82,
+            "total_fat": 29,
+            "total_fiber": 9,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "iron-rich leafy greens",
+                "high protein",
+                "everyday Yoruba household meal"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "everyday",
+                "iron-rich"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Boli & Groundnut",
+            "local_name": "Boli ati Epa",
+            "components": [
+                "Roasted Plantain",
+                "Epa"
+            ],
+            "total_calories": 800,
+            "total_protein": 26,
+            "total_carbohydrates": 74,
+            "total_fat": 47,
+            "total_fiber": 12,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "iconic Lagos street food combo",
+                "healthy fats from groundnut",
+                "potassium from plantain",
+                "no added oil in roasting"
+            ],
+            "meal_type": "snack/lunch",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "street-food",
+                "classic",
+                "lagos"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Eko & Efo Riro",
+            "local_name": "Eko ati Efo Riro",
+            "components": [
+                "Eko",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 580,
+            "total_protein": 31,
+            "total_carbohydrates": 54,
+            "total_fat": 29,
+            "total_fiber": 8,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very traditional Yoruba pairing",
+                "eko is gentle on the stomach",
+                "iron-rich efo riro",
+                "high protein"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "traditional",
+                "iron-rich",
+                "light-base"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Eko & Obe Ata",
+            "local_name": "Eko ati Obe Ata",
+            "components": [
+                "Eko",
+                "Obe Ata"
+            ],
+            "total_calories": 570,
+            "total_protein": 23,
+            "total_carbohydrates": 60,
+            "total_fat": 29,
+            "total_fiber": 7,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "traditional Yoruba breakfast or light meal",
+                "antioxidants from pepper stew",
+                "easy to digest",
+                "postpartum-friendly"
+            ],
+            "meal_type": "breakfast/lunch",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "traditional",
+                "light-base",
+                "postpartum"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Ikokore & Obe Eja",
+            "local_name": "Ikokore ati Obe Eja Tutu",
+            "components": [
+                "Ikokore",
+                "Obe Eja Tutu"
+            ],
+            "total_calories": 790,
+            "total_protein": 48,
+            "total_carbohydrates": 75,
+            "total_fat": 35,
+            "total_fiber": 9,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high protein — double fish source",
+                "omega-3 fatty acids",
+                "deeply Ijebu-Yoruba heritage dish",
+                "antioxidant-rich water yam"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "ijebu",
+                "indigenous",
+                "high-protein",
+                "fish",
+                "one-pot"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Ojojo & Ogi",
+            "local_name": "Ojojo ati Ogi",
+            "components": [
+                "Ojojo",
+                "Pap"
+            ],
+            "total_calories": 580,
+            "total_protein": 8,
+            "total_carbohydrates": 90,
+            "total_fat": 19,
+            "total_fiber": 5,
+            "glycemic_index": "medium-high",
+            "health_highlights": [
+                "traditional Yoruba breakfast pairing",
+                "water yam antioxidants",
+                "easy to digest pap",
+                "comforting morning meal"
+            ],
+            "meal_type": "breakfast",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "breakfast",
+                "traditional",
+                "water-yam"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Ekuru & Obe Ata Din Din",
+            "local_name": "Ekuru ati Obe Ata Din Din",
+            "components": [
+                "Ekuru",
+                "Obe Ata Din Din"
+            ],
+            "total_calories": 870,
+            "total_protein": 44,
+            "total_carbohydrates": 53,
+            "total_fat": 53,
+            "total_fiber": 14,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high protein",
+                "steamed beans — heart-friendly preparation",
+                "capsaicin from fried pepper boosts metabolism",
+                "classic Yoruba combination"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "traditional",
+                "high-protein",
+                "classic"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Egbo & Obe Ata",
+            "local_name": "Egbo ati Obe Ata",
+            "components": [
+                "Egbo",
+                "Obe Ata"
+            ],
+            "total_calories": 730,
+            "total_protein": 32,
+            "total_carbohydrates": 90,
+            "total_fat": 37,
+            "total_fiber": 13,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "whole grain corn retains all fiber",
+                "antioxidants from pepper stew",
+                "affordable and filling",
+                "traditional village meal"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "traditional",
+                "whole-grain",
+                "affordable"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Amala Ogede & Efo Riro",
+            "local_name": "Amala Ogede ati Efo Riro",
+            "components": [
+                "Amala Ogede",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 670,
+            "total_protein": 31,
+            "total_carbohydrates": 72,
+            "total_fat": 29,
+            "total_fiber": 15,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high fiber — plantain swallow + leafy greens",
+                "high protein",
+                "blood sugar friendly",
+                "iron-rich"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "diabetic-friendly",
+                "iron-rich",
+                "high-fiber"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Guguru & Epa",
+            "local_name": "Guguru ati Epa",
+            "components": [
+                "Guguru",
+                "Epa"
+            ],
+            "total_calories": 920,
+            "total_protein": 31,
+            "total_carbohydrates": 88,
+            "total_fat": 54,
+            "total_fiber": 20,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "highest fiber snack combo",
+                "very high protein for a snack",
+                "polyphenol antioxidants from whole corn",
+                "classic Yoruba party snack"
+            ],
+            "meal_type": "snack",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "snack",
+                "street-food",
+                "party-food",
+                "high-fiber"
+            ],
+            "difficulty": "easy"
+        },
+        {
+            "name": "Amala & Obe Efo Elegusi",
+            "local_name": "Amala ati Efo Elegusi",
+            "components": [
+                "Amala",
+                "Obe Efo Elegusi"
+            ],
+            "total_calories": 820,
+            "total_protein": 36,
+            "total_carbohydrates": 79,
+            "total_fat": 43,
+            "total_fiber": 15,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "very high protein",
+                "iron from leafy greens",
+                "essential fatty acids from egusi",
+                "deeply traditional"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "high-protein",
+                "iron-rich"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Lafun & Efo Riro",
+            "local_name": "Lafun ati Efo Riro",
+            "components": [
+                "Amala Lafun",
+                "Obe Efo Riro"
+            ],
+            "total_calories": 660,
+            "total_protein": 30,
+            "total_carbohydrates": 74,
+            "total_fat": 29,
+            "total_fiber": 10,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "fermented swallow supports gut bacteria",
+                "iron-rich efo riro",
+                "high protein",
+                "light and digestible"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "indigenous",
+                "traditional",
+                "iron-rich",
+                "fermented"
+            ],
+            "difficulty": "medium"
+        },
+        {
+            "name": "Amala & Obe Ila Alasepo Pupa",
+            "local_name": "Amala ati Ila Alasepo Pupa",
+            "components": [
+                "Amala",
+                "Obe Ila Alasepo Pupa"
+            ],
+            "total_calories": 740,
+            "total_protein": 30,
+            "total_carbohydrates": 93,
+            "total_fat": 29,
+            "total_fiber": 15,
+            "glycemic_index": "medium",
+            "health_highlights": [
+                "double fiber from amala and okra",
+                "antioxidants from tomatoes and peppers",
+                "gut motility support",
+                "classic Yoruba household staple"
+            ],
+            "meal_type": "lunch/dinner",
+            "tags": [
+                "yoruba",
+                "traditional",
+                "indigenous",
+                "fiber-rich",
+                "gut-health"
+            ],
+            "difficulty": "medium"
+        }
+    ]
+}
