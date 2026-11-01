@@ -1,57 +1,105 @@
 import json
 from sqlmodel import Session, select
-from app.database import engine
+from app.db.session import engine
 from app.models.recipe import Food, Combination
 
 def seed_data_if_empty():
+    """
+    Seeds the database with foods and combinations from data/recipes.json
+    only if the Food table is empty.
+    """
     with Session(engine) as session:
-        # Check if data already exists
-        if session.exec(select(Food)).first() is not None:
-            return  # already seeded
+        # Check if any food already exists
+        if session.exec(select(Food)).first():
+            return
 
-        # Load the JSON file
         with open("data/recipes.json", "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # Insert foods
-        for item in data["foods"]:
+        # ---------- Seed Foods ----------
+        for item in data.get("foods", []):
             food = Food(
-                category=item["category"],
-                name=item["name"],
-                local_name=item["local_name"],
-                calories=item["calories"],
-                protein=item["protein"],
-                carbohydrates=item["carbohydrates"],
-                fat=item["fat"],
-                fiber=item["fiber"],
-                glycemic_index=item["glycemic_index"],
-                calorie_density=item["calorie_density"],
-                recommended_portion=item["recommended_portion"],
-                health_benefits=item["health_benefits"],
-                ingredients=item["ingredients"],
-                origin=item["origin"],
-                tags=item["tags"],
-                difficulty=item["difficulty"],
+                # Basic identifiers
+                slug=item.get("slug"),
+                category=item.get("category", ""),
+                name=item.get("name", ""),
+                local_name=item.get("local_name", ""),
+                
+                # Cultural & cooking details
+                tribe_subgroup=item.get("tribe_subgroup", []),
+                meal_occasion=item.get("meal_occasion", []),
+                season=item.get("season"),
+                prep_time_minutes=item.get("prep_time_minutes"),
+                cook_time_minutes=item.get("cook_time_minutes"),
+                serving_size=item.get("serving_size"),
+                
+                # Nutritional info (legacy fields kept for compatibility)
+                calories=item.get("calories", 0),
+                protein=item.get("protein", 0),
+                carbohydrates=item.get("carbohydrates", 0),
+                fat=item.get("fat", 0),
+                fiber=item.get("fiber", 0),
+                glycemic_index=item.get("glycemic_index", ""),
+                calorie_density=item.get("calorie_density", ""),
+                recommended_portion=item.get("recommended_portion", ""),
+                
+                # Dietary & allergens
+                dietary_flags=item.get("dietary_flags", []),
+                allergens=item.get("allergens", []),
+                
+                # Health & ingredients
+                health_benefits=item.get("health_benefits", []),
+                ingredients=item.get("ingredients", []),
+                
+                # Instructions (new array field, keep old preparation_steps as fallback)
+                instructions=item.get("instructions", []),
+                preparation_steps=item.get("preparation_steps", []),
+                
+                origin=item.get("origin", ""),
+                tags=item.get("tags", []),
+                difficulty=item.get("difficulty", "easy"),
+                
+                # Media
+                image_url=item.get("image_url"),
+                video_url=item.get("video_url"),
+                image_credit=item.get("image_credit"),
+                thumbnail_url=item.get("thumbnail_url"),
+                image_type=item.get("image_type"),
+                
+                # Workflow fields (seeded as approved)
+                status="approved",
+                submitted_by=None,
+                is_featured=False,
+                cooking_time=item.get("cooking_time"),  # legacy
             )
             session.add(food)
 
-        # Insert combinations
-        for item in data["combinations"]:
-            comb = Combination(
+        # ---------- Seed Combinations ----------
+        for item in data.get("combinations", []):
+            combo = Combination(
+                id=item["id"],                     # string ID from JSON
+                slug=item.get("slug"),
                 name=item["name"],
-                local_name=item["local_name"],
-                components=item["components"],
-                total_calories=item["total_calories"],
-                total_protein=item["total_protein"],
-                total_carbohydrates=item["total_carbohydrates"],
-                total_fat=item["total_fat"],
-                total_fiber=item["total_fiber"],
-                glycemic_index=item["glycemic_index"],
-                health_highlights=item["health_highlights"],
-                meal_type=item["meal_type"],
-                tags=item["tags"],
-                difficulty=item["difficulty"],
+                local_name=item.get("local_name", ""),
+                components=item.get("components", []),
+                component_ids=item.get("component_ids", []),
+                total_calories=item.get("total_calories", 0),
+                total_protein=item.get("total_protein", 0),
+                total_carbohydrates=item.get("total_carbohydrates", 0),
+                total_fat=item.get("total_fat", 0),
+                total_fiber=item.get("total_fiber", 0),
+                glycemic_index=item.get("glycemic_index", ""),
+                health_highlights=item.get("health_highlights", []),
+                meal_type=item.get("meal_type", ""),
+                meal_occasion=item.get("meal_occasion", []),
+                tags=item.get("tags", []),
+                difficulty=item.get("difficulty", "easy"),
+                serving_order=item.get("serving_order", []),
+                serving_tips=item.get("serving_tips", []),
+                total_cook_time_minutes=item.get("total_cook_time_minutes"),
+                steps=item.get("steps", []),
             )
-            session.add(comb)
+            session.add(combo)
 
         session.commit()
+        print("Database seeded successfully with foods and combinations.")

@@ -1,13 +1,14 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import os
-from app.database import create_db_and_tables
-from app.routers import foods, combinations, auth, categories, stats
+from app.api.v1.router import router as v1_router
+from app.db.session import create_db_and_tables
 from app.seed import seed_data_if_empty
 from app.seed_categories import seed_categories
-
-ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "*").split(",")
+from app.core.config import settings
+from app.core.rate_limit import limiter
+from slowapi import _rate_limit_exceeded_handler
+from slowapi.errors import RateLimitExceeded
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -17,28 +18,28 @@ async def lifespan(app: FastAPI):
     yield
 
 app = FastAPI(
-    title="Yoruba Recipes API",
-    description="A curated showcase of authentic Yoruba foods and meal combinations.",
+    title=settings.PROJECT_NAME,
     version="1.0.0",
     lifespan=lifespan,
 )
 
+# ── Rate limiter setup (immediately after app creation) ──
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
+
+# CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=ALLOWED_ORIGINS,
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
     expose_headers=["X-Total-Count"],
 )
 
-# Include routers
-app.include_router(foods.router)
-app.include_router(combinations.router)
-app.include_router(auth.router)
-app.include_router(categories.router)
-app.include_router(stats.router)
+# Routers
+app.include_router(v1_router, prefix="/api/v1")
 
 @app.get("/")
 def root():
-    return {"message": "Welcome to the Yoruba Recipes API. Visit /docs for Swagger UI."}
+    return {"message": f"Welcome to {settings.PROJECT_NAME}"}

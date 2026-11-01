@@ -1,5 +1,5 @@
 from sqlmodel import Session, select
-from app.database import engine
+from app.db.session import engine
 from app.models.recipe import Food
 from app.models.category import Category
 
