@@ -98,4 +98,4 @@ Community submissions are part of the product: recipes submitted through the pub
 
 ## License
 
-No license has been applied yet. Treat the code as all rights reserved until one is added.
+Released under the [MIT License](LICENSE).
