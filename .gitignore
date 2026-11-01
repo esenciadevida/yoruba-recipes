@@ -6,3 +6,6 @@ node_modules/
 dist/
 .env
 .env.production
+# Local database artifact - recreated by the seeding step on startup
+backend/*.db
+*.db-journal
